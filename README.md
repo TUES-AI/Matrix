@@ -1,16 +1,22 @@
 # Matrix
 
+> Note:
+> До ден-два ще кача още материали за умножението на матрици в Невронни мрежи от часа
+
 Бърз recap на основните неща, които научихме:
-![Youtube](https://youtu.be/OFfEAs2rRAg?si=1kKWLPMVpZqqVcvi)
+<br>
+[Видео в YouTube](https://youtu.be/OFfEAs2rRAg?si=1kKWLPMVpZqqVcvi)
 
 
 ## Код за визуализация
 
 Линк към Colab с визуализациите:
-![Open in Colab](https://colab.research.google.com/drive/1QKmp80mx92_N0Hj16Q9uQstaubqCRJMC)
+<br>
+[Open in Colab](https://colab.research.google.com/drive/1QKmp80mx92_N0Hj16Q9uQstaubqCRJMC)
 
 Другия файл за визуализация на 2д linear transformation с матрица:
-![Python](https://github.com/TUES-AI/Matrix/blob/main/transform_sliders.py)
+<br>
+[Python скрипт](https://github.com/TUES-AI/Matrix/blob/main/transform_sliders.py)
 
 ![](images/0.png)
 ![](images/1.png)
