@@ -5,7 +5,7 @@
 
 Бърз recap на основните неща, които научихме:
 <br>
-[Видео в YouTube](https://youtu.be/OFfEAs2rRAg?si=1kKWLPMVpZqqVcvi)
+[![Видео в YouTube](https://img.youtube.com/vi/OFfEAs2rRAg/0.jpg)](https://youtu.be/OFfEAs2rRAg?si=1kKWLPMVpZqqVcvi)
 
 
 ## Код за визуализация
