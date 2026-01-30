@@ -1,7 +1,8 @@
 # Matrix
 
-> Note:
-> До ден-два ще кача още материали за умножението на матрици в Невронни мрежи от часа
+[Matrix multiplication](#matmul)
+
+[Neural network forward pass with matrix multiplication](#nnff-as-matrix-multiplication)
 
 Бърз recap на основните неща, които научихме:
 <br>
@@ -26,6 +27,8 @@
 ![](images/5.png)
 ![](images/6.png)
 ![](images/7.png)
+## Matmul
+<a id="matmul"></a>
 ![](images/8.png)
 ![](images/9.png)
 ![](images/10.png)
@@ -38,6 +41,8 @@
 ![](images/17.png)
 ![](images/18.png)
 ![](images/19.png)
+## NNFF as matrix multiplication
+<a id="nnff-as-matrix-multiplication"></a>
 ![](images/20.png)
 ![](images/21.png)
 ![](images/22.png)
