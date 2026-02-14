@@ -1,5 +1,7 @@
 # Matrix
 
+## [CODE FROM LAST LECTURE](https://colab.research.google.com/drive/1VgmZhpD7-vtEwvoZq-gXkY1UsUAUQH9E?usp=sharing)
+
 [Matrix multiplication](#matmul)
 
 [Neural network forward pass with matrix multiplication](#nnff-as-matrix-multiplication)
